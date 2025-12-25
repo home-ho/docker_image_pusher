@@ -1,1 +1,1 @@
-gcc.io/cadvisor/cadvisor:v0.55.1
+gcr.io/cadvisor/cadvisor:v0.55.1
